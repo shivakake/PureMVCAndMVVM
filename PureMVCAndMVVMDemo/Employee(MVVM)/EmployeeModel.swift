@@ -20,7 +20,7 @@ class EmployeeModel {
             EmployeeDataModel(aName: "PGK Babu", aAge: 38, aProfile: "Image_05"),
             EmployeeDataModel(aName: "PGK Raghavendra", aAge: 36, aProfile: "Image_06"),
             EmployeeDataModel(aName: "PGK Jyothi", aAge: 34, aProfile: "Image_07"),
-            EmployeeDataModel(aName: "PGK Shiva Kumar", aAge: 32, aProfile: "Image_08"),
+            EmployeeDataModel(aName: "PGK Shiva Kumaran", aAge: 32, aProfile: "Image_08"),
             EmployeeDataModel(aName: "PGK Nishith", aAge: 22, aProfile: "Image_09"),
             EmployeeDataModel(aName: "PGK Sai Saketh", aAge: 19, aProfile: "Image_10"),
             EmployeeDataModel(aName: "PGK Chakri", aAge: 8, aProfile: "Image_11"),

@@ -148,11 +148,11 @@
 		EAFCD7422A6D77DB000A7D5D /* Employee(MVVM) */ = {
 			isa = PBXGroup;
 			children = (
-				EAFCD7432A6D77DB000A7D5D /* EmployeeViewModel.swift */,
-				EAFCD7442A6D77DB000A7D5D /* EmployeeCollectionViewCell.swift */,
-				EAFCD7452A6D77DB000A7D5D /* EmployeeView.swift */,
-				EAFCD7462A6D77DB000A7D5D /* EmployeeViewController.swift */,
 				EAFCD7472A6D77DB000A7D5D /* EmployeeModel.swift */,
+				EAFCD7452A6D77DB000A7D5D /* EmployeeView.swift */,
+				EAFCD7432A6D77DB000A7D5D /* EmployeeViewModel.swift */,
+				EAFCD7462A6D77DB000A7D5D /* EmployeeViewController.swift */,
+				EAFCD7442A6D77DB000A7D5D /* EmployeeCollectionViewCell.swift */,
 			);
 			path = "Employee(MVVM)";
 			sourceTree = "<group>";
@@ -160,10 +160,10 @@
 		EAFCD7482A6D77DB000A7D5D /* User(MVC) */ = {
 			isa = PBXGroup;
 			children = (
-				EAFCD7492A6D77DB000A7D5D /* UserView.swift */,
 				EAFCD74A2A6D77DB000A7D5D /* UserModel.swift */,
-				EAFCD74B2A6D77DB000A7D5D /* UserCollectionViewCell.swift */,
+				EAFCD7492A6D77DB000A7D5D /* UserView.swift */,
 				EAFCD74C2A6D77DB000A7D5D /* UserListViewController.swift */,
+				EAFCD74B2A6D77DB000A7D5D /* UserCollectionViewCell.swift */,
 			);
 			path = "User(MVC)";
 			sourceTree = "<group>";
